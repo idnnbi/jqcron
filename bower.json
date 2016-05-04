@@ -4,6 +4,7 @@
   "license": "MIT",
   "homepage": "https://github.com/idnnbi/jqcron",
   "dependencies": {
-    "jquery": "~2.1.4"
+    "jquery": "~2.1.4",
+    "requirejs": "~2.1.18"
   }
 }
