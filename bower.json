@@ -1,0 +1,9 @@
+{
+  "name": "jqcron",
+  "description": "Cron Quartz jQuery plugin",
+  "license": "MIT",
+  "homepage": "https://github.com/idnnbi/jqcron",
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
