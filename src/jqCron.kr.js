@@ -8,7 +8,7 @@
  */
 
 jqCronDefaultSettings.texts.kr = {
-    empty: '( 주기 선택 )',
+    empty: '( 선택 )',
     empty_minutes: '분 선택',
     empty_time_hours: '시 선택',
     empty_time_minutes: '분 선택',
@@ -16,11 +16,11 @@ jqCronDefaultSettings.texts.kr = {
     empty_day_of_month: '일 선택',
     empty_month: '월 선택',
     name_minute: '분',
-    name_hour: '( 시간 마다 )',
-    name_day: '( 일  마다 )',
-    name_week: '( 주  마다 )',
-    name_month: '( 월  마다 )',
-    name_year: '( 년  마다 )',
+    name_hour: '( 시간 )',
+    name_day: '( - 일 - )',
+    name_week: '( - 주 - )',
+    name_month: '( - 월 - )',
+    name_year: '( - 년 - )',
     text_period: '주기 :  <b />',
     text_mins: ' - <b /> 분에 실행',
     text_time: ' - <b /> 시 :<b /> 분에 실행',
