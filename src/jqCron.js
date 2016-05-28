@@ -45,7 +45,7 @@ var jqCronDefaultSettings = {
 };
 
 jqCronDefaultSettings.texts.kokr = {
-    empty: '( 매분 )',
+    empty: '( 매 분 )',
     empty_minutes: '모든 분',
     empty_time_hours: '모든 시간',
     empty_time_minutes: '모든 분',
