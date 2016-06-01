@@ -44,7 +44,7 @@ var jqCronDefaultSettings = {
 	}
 };
 
-jqCronDefaultSettings.texts.kokr = {
+jqCronDefaultSettings.texts.ko = {
     empty: '( 매 분 )',
     empty_minutes: '모든 분',
     empty_time_hours: '모든 시간',
@@ -72,7 +72,7 @@ jqCronDefaultSettings.texts.kokr = {
     months: ['1월', '2월', '3월', '4월', '5월', '6월', '7월', '8월', '9월', '10월', '11월', '12월']
 };
 
-jqCronDefaultSettings.texts.enus = {
+jqCronDefaultSettings.texts.en = {
 	empty: 'every',
 	empty_minutes: 'every',
 	empty_time_hours: 'every hour',
