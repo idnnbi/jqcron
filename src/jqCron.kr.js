@@ -7,7 +7,7 @@
  * file that was distributed with this source code.
  */
 
-jqCronDefaultSettings.texts.kokr = {
+jqCronDefaultSettings.texts.ko = {
     empty: '( 모두 )',
     empty_minutes: '모든 분',
     empty_time_hours: '모든 시간',
